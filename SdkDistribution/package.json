@@ -1,0 +1,23 @@
+{
+    "name": "com.testcompany.sdkdistribution",
+    "version": "0.0.1",
+    "displayName": "SdkDistribution",
+    "description": "UPM distribition with Unity test.",
+    "unity": "2021.3",
+    "unityRelease": "",
+    "documentationUrl": "https://example.com/",
+    "changelogUrl": "https://example.com/changelog.html",
+    "licensesUrl": "https://example.com/licensing.html",
+    "dependencies": {
+      "com.unity.timeline": "1.6.4"
+   },
+   "keywords": [
+      "test",
+      "distribution"
+    ],
+    "author": {
+      "name": "John Doe",
+      "email": "fakeemail@gmail.com",
+      "url": "https://www.google.com"
+    }
+  }

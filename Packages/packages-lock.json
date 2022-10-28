@@ -1,5 +1,13 @@
 {
   "dependencies": {
+    "com.testcompany.sdkdistribution": {
+      "version": "file:../SdkDistribution",
+      "depth": 0,
+      "source": "local",
+      "dependencies": {
+        "com.unity.timeline": "1.6.4"
+      }
+    },
     "com.unity.collab-proxy": {
       "version": "1.15.15",
       "depth": 0,
